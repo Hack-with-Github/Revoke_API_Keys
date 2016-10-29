@@ -1,2 +1,2 @@
-# Revoke_API_Keys
+# Revoke API Keys
 Documentation featuring how to revoke API keys of different websites
