@@ -18,6 +18,9 @@
 ![Keys and Access Tokens tab](/Images/Twitter/3.jpg)
 
   - Click on **Regenerate Consumer Key and Secret** under *Application Actions*.
+
 ![Regenerate Consumer Key and Secret](/Images/Twitter/4.jpg)
+
   - Click on **Regenerate My Access Token and Token Secret** under *Token Actions* to regenerate Access token and secret. If you wish to revoke token access click on **Revoke Token Access**.
+
 ![Token Actions](/Images/Twitter/5.jpg)
